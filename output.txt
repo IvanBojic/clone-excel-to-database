@@ -1,0 +1,35 @@
+Uspesno povezivanje sa bazom podataka.
+ Godina: 2023 Importujem Fajl Analitike_23.xlsx.<br>
+ Godina: 2023 Importujem Fajl Artikli_23.xlsx.<br>
+Fajl Artikli_23.xlsx je uspešno importovan u tabelu Artikli_23.<br>
+ Godina: 2023 Importujem Fajl GlavnaKnjiga_23.xlsx.<br>
+Fajl GlavnaKnjiga_23.xlsx je uspešno importovan u tabelu GlavnaKnjiga_23.<br>
+ Godina: 2023 Importujem Fajl KontniPlan_23.xlsx.<br>
+Fajl KontniPlan_23.xlsx je uspešno importovan u tabelu KontniPlan_23.<br>
+ Godina: 2023 Importujem Fajl KupciDobavljaci_23.xlsx.<br>
+Fajl KupciDobavljaci_23.xlsx je uspešno importovan u tabelu KupciDobavljaci_23.<br>
+ Godina: 2023 Importujem Fajl KursnaLista_23.xlsx.<br>
+ Godina: 2023 Importujem Fajl MestaIsporuke_23.xlsx.<br>
+Fajl MestaIsporuke_23.xlsx je uspešno importovan u tabelu MestaIsporuke_23.<br>
+ Godina: 2023 Importujem Fajl Objekti_23.xlsx.<br>
+Fajl Objekti_23.xlsx je uspešno importovan u tabelu Objekti_23.<br>
+ Godina: 2023 Importujem Fajl PoreskiStatusi_23.xlsx.<br>
+ Godina: 2023 Importujem Fajl Referenti_23.xlsx.<br>
+Fajl Referenti_23.xlsx je uspešno importovan u tabelu Referenti_23.<br>
+ Godina: 2023 Importujem Fajl RobniDokStavke_23.xlsx.<br>
+Fajl RobniDokStavke_23.xlsx je uspešno importovan u tabelu RobniDokStavke_23.<br>
+ Godina: 2023 Importujem Fajl RobniDokZaglavlje_23.xlsx.<br>
+Fajl RobniDokZaglavlje_23.xlsx je uspešno importovan u tabelu RobniDokZaglavlje_23.<br>
+ Godina: 2023 Importujem Fajl Sektori_23.xlsx.<br>
+Fajl Sektori_23.xlsx je uspešno importovan u tabelu Sektori_23.<br>
+ Godina: 2023 Importujem Fajl StavkeFaktura_23.xlsx.<br>
+Fajl StavkeFaktura_23.xlsx je uspešno importovan u tabelu StavkeFaktura_23.<br>
+ Godina: 2023 Importujem Fajl StavkeKalkulacija_23.xlsx.<br>
+Fajl StavkeKalkulacija_23.xlsx je uspešno importovan u tabelu StavkeKalkulacija_23.<br>
+ Godina: 2023 Importujem Fajl VrsteDok_23.xlsx.<br>
+Fajl VrsteDok_23.xlsx je uspešno importovan u tabelu VrsteDok_23.<br>
+ Godina: 2023 Importujem Fajl ZaglavljeFaktura_23.xlsx.<br>
+Fajl ZaglavljeFaktura_23.xlsx je uspešno importovan u tabelu ZaglavljeFaktura_23.<br>
+ Godina: 2023 Importujem Fajl ZaglavljeKalkulacija_23.xlsx.<br>
+Fajl ZaglavljeKalkulacija_23.xlsx je uspešno importovan u tabelu ZaglavljeKalkulacija_23.<br>
+ Godina: 2023 Importujem Fajl ZavisniTroskovi_23.xlsx.<br>
